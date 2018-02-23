@@ -1,0 +1,47 @@
+﻿@model LibrarySystemProject.Models.ReaderViewModel.ReaderEditViewModel
+
+@{
+    //ViewBag.Title = Model.Id > 0 ? "Edit Reader" : "Create Reader";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="text-align:center; margin-top:30px; color:forestgreen; text-decoration:underline; margin-bottom: 50px; font-size:30px;">Edit</h2>
+
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        <div class="form-group">
+            @Html.LabelFor(model => model.firstName, "First Name" , new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:15px; " })
+                
+            @Html.EditorFor(model => model.firstName, new { @class = "form-control col-md-offset-5"})
+            @Html.ValidationMessageFor(model => model.firstName)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.lastName,"Last Name", new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:15px; " })
+                
+            @Html.EditorFor(model => model.lastName, new { @class = "form-control col-md-offset-5" })
+            @Html.ValidationMessageFor(model => model.lastName)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.readerCard, "Reader Card", new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:15px; " })
+                
+            @Html.EditorFor(model => model.readerCard, new { @class = "form-control col-md-offset-5"})
+            @Html.ValidationMessageFor(model => model.readerCard)
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.expireDate, "Expire Date", new { @class = "control-label col-md-5 ", @style = "color: forestgreen; font-size:15px; " })
+
+            @Html.EditorFor(model => model.expireDate, new { @class = "form-control col-md-offset-5" })
+            @Html.ValidationMessageFor(model => model.expireDate)
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-5 col-md-10">
+                <input type="submit" value="Save" class="btn-success" style="border-radius:15px; height:2.5em; width:5em;" />
+                <button class="btn-default" style="border-radius:15px; height:2.5em; width:5em;">
+                    @Html.ActionLink("Cancel", "Index")
+                </button>
+            </div>
+        </div>
+    </div>
+}
+

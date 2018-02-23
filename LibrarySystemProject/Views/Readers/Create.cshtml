@@ -1,0 +1,55 @@
+﻿@model LibrarySystemProject.Models.ReaderViewModel.ReaderCreateViewModel
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2 style="text-align:center; margin-top:30px; color:forestgreen; text-decoration:underline; margin-bottom: 50px; font-size:35px;">Create</h2>
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        @*<h4>Reader</h4>*@
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        <div class="form-group">
+            @Html.LabelFor(model => model.firstName, "First Name", htmlAttributes: new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:22px;" })
+                
+            @Html.EditorFor(model => model.firstName, new { htmlAttributes = new { @class = "form-control col-md-offset-5" } })
+            @Html.ValidationMessageFor(model => model.firstName, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.lastName, "Last Name", htmlAttributes: new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:22px;" })
+                
+            @Html.EditorFor(model => model.lastName,  new { htmlAttributes = new { @class = "form-control col-md-offset-5" } })
+            @Html.ValidationMessageFor(model => model.lastName, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.readerCard, "Reader Card", htmlAttributes: new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:22px;" })
+
+            @Html.EditorFor(model => model.readerCard, new { htmlAttributes = new { @class = "form-control col-md-offset-5" } })
+            @Html.ValidationMessageFor(model => model.readerCard, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.expireDate, "Expire Date", htmlAttributes: new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:22px;" })
+                
+            @Html.EditorFor(model => model.expireDate, new { htmlAttributes = new { @class = "form-control col-md-offset-5" } })
+            @Html.ValidationMessageFor(model => model.expireDate, "", new { @class = "text-danger" })
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-5 col-md-10">
+                <input type="submit" value="Create" class="btn-success" style="border-radius:15px; height:2.5em; width:5em;"/>
+
+                <button class="btn-default" style="border-radius:15px; height:2.5em; width:5em;">
+                    @Html.ActionLink("Cancel", "Index", "Readers")
+                </button>
+            </div>
+        </div>
+    </div>
+}

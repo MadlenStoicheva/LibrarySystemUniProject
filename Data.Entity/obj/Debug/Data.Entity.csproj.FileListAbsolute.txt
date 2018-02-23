@@ -1,0 +1,81 @@
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.dll.config
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.pdb
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.pdb
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.pdb
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.dll.config
+C:\Users\Madlen\Desktop\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.dll.config
+C:\Users\Madlen\Desktop\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.dll
+C:\Users\Madlen\Desktop\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.pdb
+C:\Users\Madlen\Desktop\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Madlen\Desktop\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Madlen\Desktop\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.dll
+C:\Users\Madlen\Desktop\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.pdb
+C:\Users\Madlen\Desktop\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.dll.config
+C:\Users\Madlen\Desktop\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Madlen\Desktop\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Madlen\Desktop\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Madlen\Desktop\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.dll
+C:\Users\Madlen\Desktop\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.pdb
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.dll.config
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.pdb
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.pdb
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.dll.config
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.pdb
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.dll.config
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.pdb
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.pdb
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.dll.config
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.pdb
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.dll.config
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.pdb
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.pdb
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.dll.config
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.pdb
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.dll.config
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\Data.Entity.pdb
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.SqlServer.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.pdb
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\LibrarySystem.Entity.dll.config
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\bin\Debug\EntityFramework.SqlServer.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.csprojResolveAssemblyReference.cache
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.csproj.CoreCompileInputs.cache
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.pdb
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.Migrations.Automatic.resources
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\Data.Entity\obj\Debug\Data.Entity.csproj.GenerateResource.Cache

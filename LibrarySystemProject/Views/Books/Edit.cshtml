@@ -1,0 +1,65 @@
+﻿@model LibrarySystemProject.Models.BookViewModel.BookEditViewModel
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="text-align:center; margin-top:30px; color:forestgreen; text-decoration:underline; margin-bottom: 50px; font-size:35px;">Edit</h2>
+
+
+@using (Html.BeginForm())
+{
+    <div class="form-horizontal">
+        <div class="form-group">
+            @Html.LabelFor(model => model.numberISBN, "Number ISBN" , new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:15px; " })
+     
+            @Html.EditorFor(model => model.numberISBN, new { @class = "form-control col-md-offset-5" })
+            @Html.ValidationMessageFor(model => model.numberISBN)
+      
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.title, "Title" , new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:15px;" })
+      
+            @Html.EditorFor(model => model.title, new { @class = "form-control col-md-offset-6" })
+            @Html.ValidationMessageFor(model => model.title)
+       
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.author, "Author", new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:15px;" })
+          
+            @Html.EditorFor(model => model.author, new { @class = "form-control col-md-offset-7" })
+            @Html.ValidationMessageFor(model => model.author)
+           
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.publishingHouse, "Publishing House", new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:15px;" })
+      
+            @Html.EditorFor(model => model.publishingHouse, new { @class = "form-control col-md-offset-6" })
+            @Html.ValidationMessageFor(model => model.publishingHouse)
+
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.releaseDate, "Release Date", new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:15px;" })
+            @Html.EditorFor(model => model.releaseDate, new { @class = "form-control col-md-offset-6" })
+            @Html.ValidationMessageFor(model => model.releaseDate)
+
+        </div>
+        <div class="form-group">
+            @Html.LabelFor(model => model.availability, "Availability", new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:15px;" })
+        
+            @Html.EditorFor(model => model.availability, new { @class = "form-control col-md-offset-6"})
+            @Html.ValidationMessageFor(model => model.availability)
+           
+        </div>
+        <div class="form-group">
+            <div class="col-md-offset-5 col-md-10">
+                <input type="submit" value="Save" class="btn-success" style="border-radius:15px; height:2.5em; width:5em;" />
+                <button class="btn-default" style="border-radius:15px; height:2.5em; width:5em;">
+                    @Html.ActionLink("Cancel", "Index")
+                </button>
+            </div>
+        </div>
+    </div>
+}
+
+

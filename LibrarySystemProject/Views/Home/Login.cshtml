@@ -1,0 +1,48 @@
+﻿@model  LibrarySystemProject.Views.Login.LoginViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Login</title>
+</head>
+<body>
+    <div  style="background-color:darkseagreen; width:350px; height: 250px; border-radius:25px; margin:auto; margin-top:100px;">
+        <div style="background-color:white; width:300px; height:150px; border-radius:25px; position:relative; left:25px; top:35px; padding-top:30px;">
+            <form action="/Home/Login" method="post">
+                <div class="form-group">
+                   @Html.LabelFor(model => model.Username, "Username", new { @class = "control-label col-md-6", @style = "color: forestgreen; font-size:15px; margin-left: 25px; padding-top:25px;" })
+
+
+                   @Html.TextBoxFor(model => model.Username, new { @class = "form-control col-md-offset-6" }) 
+                    <div style="margin:10px; margin-left:95px; margin-top:10px; font-size:11px;">
+                   @Html.ValidationMessageFor(model => model.Username)
+                   </div>
+                </div>
+                <div class="form-group">
+                    @Html.LabelFor(model => model.Password, "Password", new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:15px; margin-left: 29px; margin-top:25px;" })
+
+
+                    @Html.PasswordFor(model => model.Password, new { @class = "form-control col-md-offset-5" })
+
+                    <div style="margin:10px; margin-top:10px; margin-left:90px; font-size:11px;">
+                    @Html.ValidationMessageFor(model => model.Password)
+                    @Html.ValidationMessage("failedLogin")
+                    </div>
+               </div>
+
+                <div class="col-md-offset-2 col-md-10" style="margin:10px; margin-left:120px;">
+                    <input type="submit" value="Login"  class="btn-success" style="border-radius:15px; height:2.5em; width:5em;" />
+
+                </div>
+                <br />
+            </form>
+        </div>
+    </div>
+</body>
+</html>

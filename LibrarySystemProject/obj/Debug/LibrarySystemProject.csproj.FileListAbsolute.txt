@@ -1,0 +1,613 @@
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\ApplicationInsights.config
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.exe
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.exe.config
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.rsp
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\csi.exe
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\csi.rsp
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\System.AppContext.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.exe
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.exe.config
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.rsp
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.dll.config
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.pdb
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Antlr3.Runtime.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\EntityFramework.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Web.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Newtonsoft.Json.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Owin.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.Helpers.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.Mvc.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.Optimization.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.Razor.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\WebGrease.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.Helpers.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.Mvc.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.Optimization.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.Razor.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Antlr3.Runtime.pdb
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Newtonsoft.Json.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\EntityFramework.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Web.xml
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.csprojResolveAssemblyReference.cache
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Data.Entity.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.dll
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Data.Entity.pdb
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\Data.Entity.dll.config
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.pdb
+C:\Users\Madlen\Documents\Visual Studio 2017\Projects\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.dll.config
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\ApplicationInsights.config
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.exe
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.exe.config
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.rsp
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\csi.exe
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\csi.rsp
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\System.AppContext.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.exe
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.exe.config
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.rsp
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.dll.config
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.pdb
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Antlr3.Runtime.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Data.Entity.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\EntityFramework.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Web.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Newtonsoft.Json.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Owin.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.Helpers.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.Mvc.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.Optimization.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.Razor.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\WebGrease.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Data.Entity.pdb
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Data.Entity.dll.config
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.pdb
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.dll.config
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\EntityFramework.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.Helpers.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.Mvc.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.Optimization.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.Razor.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Antlr3.Runtime.pdb
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Newtonsoft.Json.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Web.xml
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.csprojResolveAssemblyReference.cache
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.dll
+C:\Users\Madlen\Desktop\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\ApplicationInsights.config
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.exe
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.exe.config
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.rsp
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csi.exe
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csi.rsp
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.AppContext.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.exe
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.exe.config
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.rsp
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.dll.config
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.pdb
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Antlr3.Runtime.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Data.Entity.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Web.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Newtonsoft.Json.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Owin.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Helpers.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Mvc.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Optimization.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Razor.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\WebGrease.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Data.Entity.pdb
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Data.Entity.dll.config
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.pdb
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.dll.config
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Helpers.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Mvc.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Optimization.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Razor.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Antlr3.Runtime.pdb
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Newtonsoft.Json.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Web.xml
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.csprojResolveAssemblyReference.cache
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.dll
+C:\Users\Madlen\Desktop\проект\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\ApplicationInsights.config
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.exe
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.exe.config
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.rsp
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csi.exe
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csi.rsp
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.AppContext.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.exe
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.exe.config
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.rsp
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.dll.config
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.pdb
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Antlr3.Runtime.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Data.Entity.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Web.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Newtonsoft.Json.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Owin.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Helpers.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Mvc.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Optimization.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Razor.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\WebGrease.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Data.Entity.pdb
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Data.Entity.dll.config
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.pdb
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.dll.config
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Helpers.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Mvc.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Optimization.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Razor.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Antlr3.Runtime.pdb
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Newtonsoft.Json.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Web.xml
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.csprojResolveAssemblyReference.cache
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.dll
+C:\Users\Madlen\Desktop\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\ApplicationInsights.config
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.exe
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.exe.config
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.rsp
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csi.exe
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csi.rsp
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.AppContext.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.exe
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.exe.config
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.rsp
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.dll.config
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.pdb
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Antlr3.Runtime.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Data.Entity.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.SqlServer.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Web.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Newtonsoft.Json.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Owin.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Helpers.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Mvc.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Optimization.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Razor.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Razor.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\WebGrease.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Data.Entity.pdb
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Data.Entity.dll.config
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.pdb
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.dll.config
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.SqlServer.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Helpers.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Mvc.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Optimization.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Razor.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Razor.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Antlr3.Runtime.pdb
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Newtonsoft.Json.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Web.xml
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.csprojResolveAssemblyReference.cache
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.dll
+C:\Users\Madlen\Desktop\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\ApplicationInsights.config
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.exe
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.exe.config
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csc.rsp
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csi.exe
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\csi.rsp
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.AppContext.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Collections.Immutable.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.IO.FileSystem.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\System.Reflection.Metadata.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.exe
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.exe.config
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\vbc.rsp
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\VBCSCompiler.exe
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\roslyn\VBCSCompiler.exe.config
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.dll.config
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystemProject.pdb
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Antlr3.Runtime.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Data.Entity.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.SqlServer.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Agent.Intercept.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.DependencyCollector.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Web.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.WindowsServer.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.ApplicationInsights.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Core.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Cookies.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Facebook.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Google.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.OAuth.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Twitter.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Web.Infrastructure.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Newtonsoft.Json.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Owin.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Helpers.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Mvc.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Optimization.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Razor.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Deployment.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Razor.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\WebGrease.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Data.Entity.pdb
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Data.Entity.dll.config
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.pdb
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\LibrarySystem.Entity.dll.config
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\EntityFramework.SqlServer.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Helpers.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Mvc.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Optimization.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.Razor.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Deployment.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\System.Web.WebPages.Razor.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Antlr3.Runtime.pdb
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Newtonsoft.Json.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Core.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Facebook.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Cookies.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.OAuth.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Google.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.Twitter.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.ApplicationInsights.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.DependencyCollector.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.WindowsServer.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\bin\Microsoft.AI.Web.xml
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.csprojResolveAssemblyReference.cache
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.csproj.CoreCompileInputs.cache
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.dll
+D:\работен плот - 04.02.2018\Втори курс СТД\Първи триместър\проект c#\LibrarySystemVersion2\LibrarySystem\LibrarySystemProject\obj\Debug\LibrarySystemProject.pdb

@@ -1,0 +1,54 @@
+﻿@model LibrarySystemProject.Models.TakeABookViewModel.TakeABookListViewModel
+@{
+    ViewBag.Title = "Index";
+}
+
+<h1 style="text-align:center; margin-top:25px; color:forestgreen; text-decoration:underline;">Taken Books</h1>
+
+
+
+<button class="btn-success" style="border-radius:25px; height:3em; width:7em; margin-bottom:20px; ">
+    @Html.ActionLink("Create new", "Create", "TakeABooks", new { @style = "color:white; text-decoration:none; font-weight:bold;" })
+</button>
+
+
+<table class="table">
+    <thead>
+        <tr class="btn-success">
+            <th style="text-align:center;">Book</th>
+            <th style="text-align:center;">Reader</th>
+            <th style="text-align:center;">Date Taken</th>
+            <th style="text-align:center;">Date For Return</th>
+            <th style="text-align:center;">Date Return</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var takeABook in Model.TakeABooks)
+        {
+            <tr class="bg-info text-white" style="text-align:center;">
+                <td>@takeABook.book.title</td>
+                <td>@takeABook.reader.firstName</td>
+                <td>@takeABook.dateTaken</td>
+                <td>@takeABook.dateForReturn</td>
+                <td>@takeABook.dateReturn</td>
+                <td>
+                   <button class="btn-default" style="border-radius:15px; height:2.5em; width:5em;">
+                            @Html.ActionLink("Edit", "Edit", "TakeABooks", new { id = takeABook.Id }, null)
+                    </button>
+
+                    @{
+                        if (LibrarySystemProject.LoginFilter.LoginUser.IsAdmin())
+                        {
+
+                            <button class="btn-default" style="border-radius:15px; height:2.5em; width:5em;">
+                                @Html.ActionLink("Delete", "Delete", "TakeABooks", new { id = takeABook.Id }, null)
+                            </button>
+                        }
+                    }
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

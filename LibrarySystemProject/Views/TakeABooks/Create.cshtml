@@ -1,0 +1,152 @@
+﻿@model LibrarySystemProject.Models.TakeABookViewModel.TakeABookCreateViewModel
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2 style="text-align:center; margin-top:30px; color:forestgreen; text-decoration:underline; margin-bottom: 50px; font-size:35px;">Create New</h2>
+
+@using (Html.BeginForm())
+{
+    <hr />
+<div class="form-horizontal">
+    @*<h4>Take a Book</h4>*@
+    <div class="form-group">
+        @Html.LabelFor(model => model.Books, htmlAttributes: new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:22px;" })
+        <div class="col-md-offset-5">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                <select name="BookId" id="books" class="form-control col-md-offset">
+                    @foreach (var item in Model.Books)
+                    {
+                        <option value="@item.Value">@item.Text</option>
+                    }
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Readers, htmlAttributes: new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:22px;" })
+        <div class="col-md-offset-5">
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+            <div class="form-group">
+                <select name="ReaderId" id="readers" class="form-control col-md-offset">
+                    @foreach (var item in Model.Readers)
+                    {
+                        <option value="@item.Value">@item.Text</option>
+                    }
+                </select>
+            </div>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <br />
+        @Html.LabelFor(model => model.dateTaken, "Date Taken", htmlAttributes: new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:22px;" })
+        <div class="col-md-offset-5">
+            @*@using (Html.BeginForm())
+                {*@
+            @Html.EditorFor(model => model.dateTaken, new { htmlAttributes = new { @class = "datepicker1" } })
+            @*}*@
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.dateForReturn,"Date For Return", htmlAttributes: new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:22px;" })
+        <div class="col-md-offset-5">
+            @Html.EditorFor(model => model.dateForReturn, new { htmlAttributes = new { @class = "datepicker2" } })
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.dateReturn,"Date Return", htmlAttributes: new { @class = "control-label col-md-5", @style = "color: forestgreen; font-size:22px;" })
+        <div class="col-md-offset-5">
+            @Html.EditorFor(model => model.dateReturn, new { htmlAttributes = new { @class = "datepicker3" } })
+        </div>
+    </div>
+
+    <div class="form-group">
+        <div class="col-md-offset-5 col-md-10">
+            <input type="submit" value="Create"  class="btn-success" style="border-radius:15px; height:2.5em; width:5em;" />
+
+            <button class="btn-default" style="border-radius:15px; height:2.5em; width:5em;">
+                @Html.ActionLink("Cancel", "Index")
+            </button>
+        </div>
+    </div>
+</div>
+
+}
+
+
+<link href="~/Content/themes/base/jquery-ui.min.css" rel="stylesheet" />
+<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+
+@section scripts{
+
+    <script src="~/Scripts/jquery-ui-1.12.1.min.js"></script>
+
+
+    <script>
+
+        var queryDate = '2009-11-01',
+            dateParts = queryDate.match(/(\d+)/g)
+            realDate = new Date(dateParts[0], dateParts[1] - 1, dateParts[2]); 
+
+        $(function () {
+            $(".datepicker1").datepicker({
+                dateFormat: "yy/mm/dd",
+                changeMonth: true,
+                changeYear: true,
+                minDate: new Date(2017, 0, 1),
+                maxDate: new Date(2018, 12, 1),
+                showOn: "both",
+                buttonText: "<i class='fa fa-calendar'></i>",
+
+                //onSelect: function (dateText, inst) {
+                //    var date = $(this).val();
+                //    alert(date); 
+                //    console.log(date);
+                //}
+            });
+            $('.datepicker1').datepicker('setDate', realDate);
+
+            $(".datepicker2").datepicker({
+                dateFormat: "yy/mm/dd",
+                changeMonth: true,
+                changeYear: true,
+                //yearRange : "-10:+10"
+                minDate: new Date(2017, 0, 1),
+                maxDate: new Date(2018, 12, 1),
+                showOn: "both",
+                buttonText: "<i class='fa fa-calendar'></i>",
+
+                //onSelect: function (dateText, inst) {
+                //    var date = $(this).val();
+                //    alert(date);
+                //    console.log(date);
+                //}
+            });
+
+            $('.datepicker2').datepicker('setDate', realDate);
+
+            $(".datepicker3").datepicker({
+                dateFormat: "yy/mm/dd",
+                changeMonth: true,
+                changeYear: true,
+                //yearRange : "-10:+10"
+                minDate: new Date(2017, 0, 1),
+                maxDate: new Date(2018, 12, 1),
+                showOn: "both",
+                buttonText: "<i class='fa fa-calendar'></i>",
+
+                //onSelect: function (dateText, inst) {
+                //    var date = $(this).val();
+                //    alert(date);
+                //    console.log(date);
+                //}
+            });
+
+            $('.datepicker3').datepicker('setDate', realDate);
+        });
+    </script>
+
+}

@@ -1,0 +1,78 @@
+﻿@model LibrarySystemProject.Models.BookViewModel.BookDeleteViewModel
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2 style="text-align:center; margin-top:30px; color:forestgreen; text-decoration:underline; margin-bottom: 20px; font-size:35px;">Delete Book</h2>
+
+<h4 style="text-align:center;">Are you sure you want to delete this book?</h4>
+<hr />
+<div class="col-md-offset-4">
+    
+    <dl class="dl-horizontal">
+
+        <dt style="color: forestgreen; font-size:20px;">
+            @Html.DisplayName("Number ISBN" )
+        </dt>
+
+        <dd style="font-size:20px;">
+            @Html.DisplayFor(model => model.numberISBN)
+        </dd>
+
+        <dt style="color: forestgreen; font-size:20px;">
+            @Html.DisplayName("Title")
+        </dt>
+
+        <dd style="font-size:20px;">
+            @Html.DisplayFor(model => model.title)
+        </dd>
+
+        <dt style="color: forestgreen; font-size:20px;">
+            @Html.DisplayName("Author")
+        </dt>
+
+        <dd style="font-size:20px;">
+            @Html.DisplayFor(model => model.author)
+        </dd>
+
+        <dt style="color: forestgreen; font-size:20px;">
+            @Html.DisplayName("Publishing House")
+        </dt>
+
+        <dd style="font-size:20px;">
+            @Html.DisplayFor(model => model.publishingHouse)
+        </dd>
+
+        <dt style="color: forestgreen; font-size:20px;">
+            @Html.DisplayName("Release Date")
+        </dt>
+
+        <dd style="font-size:20px;">
+            @Html.DisplayFor(model => model.releaseDate)
+        </dd>
+
+        <dt style="color: forestgreen; font-size:20px;">
+            @Html.DisplayName("Availability")
+        </dt>
+
+        <dd style="font-size:20px;">
+            @Html.DisplayFor(model => model.availability)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="col-md-offset-2 col-md-10" style="margin-bottom:30px;">
+            <input type="submit" value="Delete" class="btn-success" style="border-radius:15px; height:2.5em; width:5em;" /> 
+
+            <button class="btn-default" style="border-radius:15px; height:2.5em; width:5em;">
+                @Html.ActionLink("Cancel", "Index")
+            </button>
+        </div>
+    }
+</div>
